@@ -1,4 +1,3 @@
-# India-s-agriculture-crop-production-analysis
 # India Agricultural Cultivation Analysis (1997–2021)
 
 ## Project Description
